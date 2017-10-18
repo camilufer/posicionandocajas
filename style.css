@@ -1,0 +1,51 @@
+.cajafondo{ 
+	height:300px; 
+	width:300px;
+	background-color: red;
+}
+
+.cajamedio{
+	height:180px; 
+	width:180px;
+	background-color: #800080;
+	position: relative;
+	margin-left: 60px; 
+     bottom: 240px;
+}
+
+.cajaencima{
+	height:90px; 
+	width:90px;
+	background-color: yellow;
+	position: relative;
+	margin-left: 60px; 
+     bottom: 420px;
+}
+
+.cajafondo2{ 
+	margin-top: 170px;
+	height:300px; 
+	width:300px;
+	background-color: blue;
+	position: relative;
+	margin-left: 0px; 
+     bottom: 420px;
+	
+}
+.cajamedio2{
+	height:140px; 
+	width:140px;
+	background-color: #008000;
+	position: relative;
+	margin-left: 80px; 
+     bottom: 640px;
+}
+
+.cajaencima2{
+	height:80px; 
+	width:80px;
+	background-color: black;
+	position: relative;
+	margin-left: 0px; 
+     bottom: 860px;
+}
